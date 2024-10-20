@@ -1,0 +1,11 @@
+Data: datasaurusdozen01
+x = 54 ± 17
+y = 48 ± 27
+
+Data: datasaurusdozen05
+x = 54 ± 17
+y = 48 ± 27
+
+Data: datasaurusdozen06
+x = 54 ± 17
+y = 48 ± 27
